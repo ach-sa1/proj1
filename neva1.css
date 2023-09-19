@@ -1,0 +1,305 @@
+@media(max-width: 48em){
+  .main-nav-link{
+    font-size: 0.78rem;
+  }
+  .main-nav{
+    margin-right: -3rem;
+  }
+  h1{
+    font-size: 6rem;
+  }
+  .grid-section{
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .dilv{
+    background-color: rgb(156, 236, 230);
+      border: 0.5rem solid #fff;
+      border-radius: 1rem;
+      margin-bottom: 5rem;
+      margin-right: 2rem;
+      display: block;
+  }
+  .dillv{
+    background-color: #f49bfc;
+   display: flex;
+   justify-content: space-between;
+   border: 0.5rem solid #fff;
+   border-radius: 1rem;
+   margin-bottom: 14rem;
+   margin-top: 2rem;
+  }
+  earnings{
+    color: black;
+   padding-top: 2rem;
+      font-size: 4rem;
+    }
+    .new{
+     color: #333;
+     padding-top: 2rem;
+     padding-right: 1rem;
+     font-size: 1.8rem;
+     }
+}
+@media(max-width: 27em){
+  .main-nav-list{
+    display: flex; 
+    flex-direction: column;
+    gap: -17rem;
+    align-items: center;
+  } 
+  .main-nav-link{
+    margin-bottom: -7rem;
+    justify-content: none;
+  }
+  h1{
+    font-size: 3rem;
+  }
+  h5{
+    font-size: 1rem;
+  }
+  
+     .buttom{
+      font-size: 1.5rem;
+      margin-top: 2rem;
+      display: flex;
+      flex-direction: column;
+      margin-right: 6rem;
+      margin-left: 6rem;
+    }
+    .buttom-class{
+      margin-top: 2rem;
+      padding: 2.4rem 2.8rem;
+      border-radius: 7.3rem;
+      color: #fff;
+      background-color: #333;
+      text-decoration: none;
+    }
+    .buttom-class1{
+      margin-top: 2rem;
+      padding: 2.4rem 4.8rem;
+      border-radius: 7.3rem;
+      color: #1c133d;
+      background-color: #fff;
+      text-decoration: none;
+      margin-left: 0.5rem;
+    }
+    .grid-section{
+      grid-template-columns: repeat(1, 1fr);
+    }
+    .dilv{
+      background-color: rgb(156, 236, 230);
+        border: 0.5rem solid #fff;
+        border-radius: 1rem;
+        margin-bottom: 1rem;
+        margin-right: 2rem;
+        margin-top: 2rem;
+        display: block;
+    }
+    .dillv{
+      background-color: #f49bfc;
+     display: flex;
+     justify-content: space-between;
+     border: 0.5rem solid #fff;
+     border-radius: 1rem;
+     margin-bottom: 10rem;
+     margin-top: 2rem;
+    }
+    .earnings{
+      color: black;
+        font-size: 2.3rem;
+      }
+      .new{
+       color: #333;
+       padding-top: 2rem;
+       padding-right: 1rem;
+       font-size: 1.2rem;
+       }
+       
+}
+@media(max-width: 23em){
+  .main-nav-list{
+    display: flex; 
+    flex-direction: column;
+    gap: -17rem;
+    align-items: center;
+  } 
+  .main-nav-link{
+    margin-bottom: -7rem;
+    justify-content: none;
+  }
+  h3{
+    font-size: 2rem;
+  }
+  h1{
+    font-size: 3rem;
+  }
+  h5{
+    font-size: 1rem;
+  }
+  
+     .buttom{
+      font-size: 1.5rem;
+      margin-top: 2rem;
+      display: flex;
+      flex-direction: column;
+      margin-right: 6rem;
+      margin-left: 6rem;
+    }
+    .buttom-class{
+      margin-top: 2rem;
+      padding: 2.4rem 2.8rem;
+      border-radius: 7.3rem;
+      color: #fff;
+      background-color: #333;
+      text-decoration: none;
+    }
+    .buttom-class1{
+      margin-top: 2rem;
+      padding: 2.4rem 4.8rem;
+      border-radius: 7.3rem;
+      color: #1c133d;
+      background-color: #fff;
+      text-decoration: none;
+      margin-left: 0.5rem;
+    }
+    .grid-section{
+      grid-template-columns: repeat(1, 1fr);
+    }
+    .dilv{
+      background-color: rgb(156, 236, 230);
+        border: 0.5rem solid #fff;
+        border-radius: 1rem;
+        margin-bottom: 1rem;
+        margin-right: 2rem;
+        margin-top: 2rem;
+        display: block;
+    }
+    .dillv{
+      background-color: #f49bfc;
+     display: flex;
+     justify-content: space-between;
+     border: 0.5rem solid #fff;
+     border-radius: 1rem;
+     margin-bottom: 10rem;
+     margin-top: 2rem;
+    }
+    .earnings{
+      color: black;
+        font-size: 2.3rem;
+      }
+      .new{
+       color: #333;
+       padding-top: 2rem;
+       padding-right: 1rem;
+       font-size: 1.2rem;
+       }
+       @media(max-width: 20em){
+        .main-nav-list{
+          display: flex; 
+          flex-direction: column;
+          gap: -17rem;
+          align-items: center;
+        } 
+        .main-nav-link{
+          margin-bottom: -7rem;
+          justify-content: none;
+        }
+        h1{
+          font-size: 3rem;
+        }
+        h5{
+          font-size: 1rem;
+        }
+        
+           .buttom{
+            font-size: 1.5rem;
+            margin-top: 2rem;
+            display: flex;
+            flex-direction: column;
+            margin-right: 6rem;
+            margin-left: 6rem;
+          }
+          .buttom-class{
+            margin-top: 2rem;
+            padding: 2.4rem 2.8rem;
+            border-radius: 7.3rem;
+            color: #fff;
+            background-color: #333;
+            text-decoration: none;
+          }
+          .buttom-class1{
+            margin-top: 2rem;
+            padding: 2.4rem 4.8rem;
+            border-radius: 7.3rem;
+            color: #1c133d;
+            background-color: #fff;
+            text-decoration: none;
+            margin-left: 0.5rem;
+          }
+          .grid-section{
+            grid-template-columns: repeat(1, 1fr);
+          }
+          .grid--1{
+            margin-right: 6rem;
+            padding-left: 1rem;
+            padding-right: 1rem;
+          }
+          .grid--2::before{
+            content: "";
+            display: block;
+            width:60%;
+            padding-bottom: 80%;
+            background-color: #fd52e1;
+            border: 0.6rem solid #fff;
+            border-radius: 1rem;
+            border-bottom: none;
+            
+            position: absolute;
+            top: 40%;
+            left: 25%;
+            transform: translate(-20%, -40%);
+            z-index: -1;
+              }
+              .grid--img{
+                width: 55%;
+                margin-left: 6.5rem;
+                margin-top: 3.5rem;
+               }     
+          .dilv{
+            background-color: rgb(156, 236, 230);
+              border: 0.5rem solid #fff;
+              border-radius: 1rem;
+              margin-bottom: 1rem;
+              margin-right: 6rem;
+              margin-top: 2rem;
+              margin-left: 1rem;
+              padding-left: 0.6rem;
+              display: block;
+          }
+          .dillv{
+            background-color: #f49bfc;
+           display: flex;
+           justify-content: space-between;
+           border: 0.5rem solid #fff;
+           border-radius: 1rem;
+           margin-bottom: 10rem;
+           margin-top: 2rem;
+           margin-right: 10rem;
+           margin-left: 3rem;
+           padding-left: 2rem;
+          }
+          .earnings{
+            color: black;
+              font-size: 2.3rem;
+            }
+            .new{
+             color: #333;
+             padding-top: 2rem;
+             padding-right: 1rem;
+             font-size: 1.2rem;
+             }
+             
+      }
+       
+}
